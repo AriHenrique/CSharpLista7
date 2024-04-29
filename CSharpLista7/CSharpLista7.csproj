@@ -40,6 +40,7 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Aluno.cs" />
         <Compile Include="Fila.cs" />
         <Compile Include="Octal.cs" />
         <Compile Include="Sequencia.cs" />
