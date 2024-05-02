@@ -1,144 +1,377 @@
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-Informe o nome do site:
-Informe o link do site:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-Informe o nome do site:
-Informe o link do site:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-google: https://www.google.com
-canvas: https://canvas.pucminas.br
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
+Informe a posicao
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-Informe o nome do site:
-Informe o link do site:
-Informe a posicao:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Lista:
+Tempo perdido
+A cruz e a espada
+Catedral
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-google: https://www.google.com
-pucminas: https://www.pucminas.br
-canvas: https://canvas.pucminas.br
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-Informe a posicao:
-Site removido: pucminas
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-Informe o nome do site:
-Informe o link do site:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Lista:
+Pais e filhos
+Tempo perdido
+A cruz e a espada
+Catedral
+A carta
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-sga: https://www.pucminas.br/AcessoRestrito/Paginas/SGA-Alunos.aspx
-google: https://www.google.com
-canvas: https://canvas.pucminas.br
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Lista - ordem inversa:
+A carta
+Catedral
+A cruz e a espada
+Tempo perdido
+Pais e filhos
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-Site removido: sga
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
+A musica esta na lista
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-Site removido: canvas
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
+A musica nao consta na lista
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
-Informe o nome do site:
-Link: https://www.google.com
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
+Musica anterior: Catedral
 Menu:
-1) Inserir um Site no inicio da lista
-2) Inserir um Site no final da lista
-3) Inserir um Site numa posicao especifica da lista
-4) Remover o primeiro Site da lista
-5) Remover o ultimo Site da lista
-6) Remover um Site de uma posicao especifica da lista
-7) Mostrar o nome e o link de todos os sites da lista
-8) Pesquisar o link de um site
-9) Encerrar o programa
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
+Nao ha musica anterior
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
+Nao ha musica posterior
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
+Musica anterior: A cruz e a espada
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a musica
+Musica removida
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Lista:
+Pais e filhos
+Tempo perdido
+Catedral
+A carta
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Informe a posicao
+Musica removida: Tempo perdido
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Lista:
+Pais e filhos
+Catedral
+A carta
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Musica removida: Pais e filhos
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Lista:
+Catedral
+A carta
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Musica removida: A carta
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
+Lista:
+Catedral
+Menu:
+1)  Inserir uma musica no final da lista
+2)  Inserir uma musica no inicio da lista
+3)  Inserir uma musica numa posicao especifica da lista
+4)  Remover a musica do inicio da lista
+5)  Remover a musica do final da lista
+6)  Remover uma musica de uma posicao especifica da lista
+7)  Remover uma musica especifica
+8)  Listar todas as musicas da lista
+9)  Listar todas as musicas da lista na ordem inversa
+10) Pesquisar uma musica na lista
+11) Pesquisar musica anterior
+12) Pesquisar musica posterior
+13) Encerrar o programa
 O programa sera encerrado.

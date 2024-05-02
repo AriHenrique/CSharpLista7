@@ -6,7 +6,7 @@ namespace CSharpLista7
     {
         public static void Main(string[] args)
         {
-            Test.Verificar(Lista.Exe);
+            Test.Verificar(GerenciadorMusica.Exe);
             // Corredor.Exe();
         }
     }

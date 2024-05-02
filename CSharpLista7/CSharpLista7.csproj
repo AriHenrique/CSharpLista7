@@ -43,6 +43,7 @@
         <Compile Include="Aluno.cs" />
         <Compile Include="Corredor.cs" />
         <Compile Include="Fila.cs" />
+        <Compile Include="GerenciadorMusica.cs" />
         <Compile Include="Octal.cs" />
         <Compile Include="Sequencia.cs" />
         <Compile Include="Program.cs"/>
