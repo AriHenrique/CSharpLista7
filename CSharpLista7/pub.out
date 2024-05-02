@@ -1,40 +1,144 @@
-1. Inserir arquivo na fila de impressao
-2. Executar impressao
-3. Exibir fila de impressao
-4. Sair
-Digite o nome do arquivo:
-Digite a quantidade de paginas:
-1. Inserir arquivo na fila de impressao
-2. Executar impressao
-3. Exibir fila de impressao
-4. Sair
-Digite o nome do arquivo:
-Digite a quantidade de paginas:
-1. Inserir arquivo na fila de impressao
-2. Executar impressao
-3. Exibir fila de impressao
-4. Sair
-Digite o nome do arquivo:
-Digite a quantidade de paginas:
-1. Inserir arquivo na fila de impressao
-2. Executar impressao
-3. Exibir fila de impressao
-4. Sair
-nome: prova1, numero paginas: 1
-nome: prova2, numero paginas: 5
-nome: prova3, numero paginas: 2
-1. Inserir arquivo na fila de impressao
-2. Executar impressao
-3. Exibir fila de impressao
-4. Sair
-1. Inserir arquivo na fila de impressao
-2. Executar impressao
-3. Exibir fila de impressao
-4. Sair
-nome: prova2, numero paginas: 5
-nome: prova3, numero paginas: 2
-1. Inserir arquivo na fila de impressao
-2. Executar impressao
-3. Exibir fila de impressao
-4. Sair
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+Informe o nome do site:
+Informe o link do site:
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+Informe o nome do site:
+Informe o link do site:
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+google: https://www.google.com
+canvas: https://canvas.pucminas.br
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+Informe o nome do site:
+Informe o link do site:
+Informe a posicao:
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+google: https://www.google.com
+pucminas: https://www.pucminas.br
+canvas: https://canvas.pucminas.br
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+Informe a posicao:
+Site removido: pucminas
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+Informe o nome do site:
+Informe o link do site:
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+sga: https://www.pucminas.br/AcessoRestrito/Paginas/SGA-Alunos.aspx
+google: https://www.google.com
+canvas: https://canvas.pucminas.br
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+Site removido: sga
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+Site removido: canvas
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
+Informe o nome do site:
+Link: https://www.google.com
+Menu:
+1) Inserir um Site no inicio da lista
+2) Inserir um Site no final da lista
+3) Inserir um Site numa posicao especifica da lista
+4) Remover o primeiro Site da lista
+5) Remover o ultimo Site da lista
+6) Remover um Site de uma posicao especifica da lista
+7) Mostrar o nome e o link de todos os sites da lista
+8) Pesquisar o link de um site
+9) Encerrar o programa
 O programa sera encerrado.
